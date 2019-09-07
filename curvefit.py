@@ -3,7 +3,6 @@
 Created on Wed Sep 19 12:36:44 2018
 curvefit.py
 fit a polynomial and optimize the fit
-@author: olenick
 """
 import numpy as np
 import matplotlib.pyplot as plt
