@@ -3,7 +3,6 @@
 Created on Mon Sep 17 12:06:06 2018
 decay.py
 solve for the parent and daughter populations in nuclear decay
-@author: olenick
 """
 import matplotlib.pyplot as plt
 from numpy import linspace, log
